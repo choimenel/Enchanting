@@ -1,7 +1,0 @@
-name: Enchanting
-version: '1.0'
-main: me.vladimir.enchanting.Enchanting
-api-version: '1.21'
-commands:
-  ebook:
-    description: E B O O K
